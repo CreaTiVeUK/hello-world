@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello GitHubbers!
+
+My name is Simeon and this is my first commit!
